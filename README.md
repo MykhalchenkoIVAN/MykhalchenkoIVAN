@@ -4,12 +4,15 @@
   <img src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+---
+
+<div>
   <a href="https://www.linkedin.com/in/ivan-mykhalchenko-a73b77206/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MykhalchenkoIVAN&style=flat-square&color=blue" alt=""/>
+
 </div>
+
 
 
 ### :man_technologist: About Me :
@@ -27,6 +30,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IvanM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-mykhalchenko-a73b77206/)
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -40,11 +44,14 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
 </div>
 
+---
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MykhalchenkoIVAN&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MykhalchenkoIVAN)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=MykhalchenkoIVAN&style=flat-square&color=blue" alt=""/>
 
 <h2 align="center">Thank you for visiting and happy coding!</h2>
