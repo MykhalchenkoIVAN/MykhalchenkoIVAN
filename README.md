@@ -25,7 +25,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 👨‍💻   If you are also a beginner front-end developer or just starting to learn about web development, I hope that this repository will provide you with some inspiration and resources to help you on your own journey.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IvanM-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url](https://www.linkedin.com/in/ivan-mykhalchenko-a73b77206/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IvanM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-mykhalchenko-a73b77206/)
 
 
 
